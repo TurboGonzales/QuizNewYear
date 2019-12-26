@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizNewYear</string>
+    <string name="test_icon">Тест</string>
+    <string name="test_choose">Выберите тест</string>
+    <string name="prev_question">Назад</string>
+    <string name="next_question">Вперед</string>
+    <string name="finish_test">Завершить тест</string>
+    <string name="your_answer">Вы выбрали: </string>
+</resources>
